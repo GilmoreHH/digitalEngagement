@@ -25,3 +25,5 @@ plotly-express
 matplotlib
 seaborn
 aiohttp
+
+pyjwt
