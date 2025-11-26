@@ -1,0 +1,27 @@
+# Salesforce to NowCerts Sync - Requirements
+# Python 3.8+
+
+# Salesforce Integration
+simple-salesforce
+salesforce-bulk
+
+# HTTP Requests
+requests
+urllib3
+
+# Environment Variables
+python-dotenv
+
+# Data Handling
+python-dateutil
+
+# Optional: Enhanced logging
+colorlog
+
+python-dateutil
+
+pandas 
+plotly-express
+matplotlib
+seaborn
+aiohttp
